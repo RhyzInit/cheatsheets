@@ -1,50 +1,47 @@
-# Cheatsheets Collection
+# 📚 Developer Cheatsheets
 
-Welcome to my collection of **cheatsheets** for developers and learners!  
-This repo is designed to be a handy reference for various tools, languages, and workflows — easy to access and contribute to.
-
----
-
-## What’s Inside?
-
-- Neovim Beginner Cheat Sheet  
-- Git Basics Cheat Sheet (coming soon)  
-- Bash Commands Cheat Sheet (upcoming)  
-- Python Quick Reference (planned)  
-- And many more!
+A clean, organized collection of Markdown-based cheatsheets designed for fast reference. Ideal for students, developers, or anyone looking to sharpen their skills across different tools and environments.
 
 ---
 
-## Why Cheatsheets?
+## 📂 Cheatsheets Available
 
-Cheatsheets help you quickly recall commands, shortcuts, and best practices without digging through lengthy documentation.  
-Perfect for beginners and pros alike!
-
----
-
-## How to Use This Repo
-
-- Browse the folder structure or root directory to find cheat sheets for your tool or language.  
-- Open the Markdown (`.md`) files for clear, concise, and organized commands and tips.  
-- Feel free to suggest additions or improvements via Pull Requests!
+| Topic         | Description                                      |
+|---------------|--------------------------------------------------|
+| [Neovim](./neovim-cheatsheet.md)      | Essential keybindings and intro for new users              |
+| [Linux](./linux-cheatsheet.md)        | Common command-line operations and system tools            |
+| [Git](./git-cheatsheet.md)            | Day-to-day version control usage                      |
+| [Bash](./bash.md) *(planned)*         | Quick reference for scripting and terminal tasks     |
+| [Python](./python.md) *(planned)*     | Basic syntax and frequently used patterns            |
 
 ---
 
-## Contribution
+## 🚀 Purpose
 
-Contributions are **welcome**!  
-If you want to add a new cheatsheet or improve an existing one:  
-1. Fork the repo  
-2. Add your cheatsheet `.md` file or update existing ones  
-3. Submit a Pull Request with a clear description of your changes
+- Quickly look up essential commands
+- Learn by example and repetition
+- Reduce context switching during development
 
 ---
 
-## License
+## 🛠️ Usage
 
-This repo is open-source and available under the [MIT License](LICENSE).
+```bash
+git clone https://github.com/RhyzInit/cheatsheets.git
+cd cheatsheets
+````
+
+Open any `.md` file in your favorite Markdown viewer or editor (VS Code, Obsidian, etc).
 
 ---
 
-Happy coding! 🚀
+## 🤝 Contributing
+
+Pull requests are welcome. Keep formatting consistent, concise, and helpful for others.
+
+---
+
+## 📜 License
+
+Distributed under the [MIT License](./LICENSE).
 
